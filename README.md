@@ -3,7 +3,7 @@ The Formula1 Data engineering project is a comprehensive data engineering soluti
 This project aims to collect complex semi-structured JSON data, process, analyze and visualize data related to Formula1 racing games. 
 
 
-In this project, we will use the Formula One dataset from this page: http://ergast.com/mrd/ (you can find the same dataset in Kaggle as well). 
+In this project, we are using the Formula One dataset from this page: http://ergast.com/mrd/ (you can find the same dataset in Kaggle as well). 
 The data source is available through API JSON/XML format or downloaded CSV files. We will be using Azure Data Factory to read the data from Rest API (JSON) and write to Azure SQL/DataLake.
 
 Architecture:
